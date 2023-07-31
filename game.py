@@ -12,6 +12,7 @@ from load import load_image
 from sprites_class import Button, Camera, Dot, Tile, Pacman, Ghost, CheckBox
 
 import pygame_gui  # pip install pygame_gui
+import pygame_gui.core.ui_font_dictionary
 
 
 class Game:
